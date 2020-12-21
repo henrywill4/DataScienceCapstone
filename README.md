@@ -13,14 +13,16 @@ The Foursquare location data will be filtered for coffee shops to find their loc
 ## Geographic location data
 Zipcode data may also be used to group coffee shops by locations. If these areas are too large in geographic area, other data (such as neighborhood data, if available) may be used.  Longitude and Latitude data may also be used to determine locations in relation to each other.
 There is data available here:
+
 https://wsoic.cityofws.org/
 and
 https://wsoic.cityofws.org/datasets/315e683b6e7b4a11bb05fd1d863c074c_1/data?geometry=-81.132%2C35.925%2C-79.398%2C36.313
+
 and
 https://public.opendatasoft.com/api/v1/console/datasets/1.0/search/?rows=-1
+
 and
 https://www.arcgis.com/home/group.html?content=all&q=zip&t=group&id=24838c2d95e14dd18c25e9bad55a7f82&view=list#content
-and
 
 
 ## Distance data
