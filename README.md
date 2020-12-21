@@ -24,6 +24,12 @@ https://public.opendatasoft.com/api/v1/console/datasets/1.0/search/?rows=-1
 and
 https://www.arcgis.com/home/group.html?content=all&q=zip&t=group&id=24838c2d95e14dd18c25e9bad55a7f82&view=list#content
 
+and
+https://developers.google.com/maps/documentation/geocoding/overview
+
+and
+https://www.zipcodeapi.com/
+
 
 ## Distance data
 Distance data may also be used to determine size and coverage of geographic areas and distance between groupings.
