@@ -30,6 +30,16 @@ https://developers.google.com/maps/documentation/geocoding/overview
 and
 https://www.zipcodeapi.com/
 
+and Census data
+https://geocoding.geo.census.gov/geocoder/
+
+and
+https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf
+
+and mapquest 
+https://developer.mapquest.com/documentation/open/geocoding-api/
+
+
 
 ## Distance data
 Distance data may also be used to determine size and coverage of geographic areas and distance between groupings.
