@@ -35,12 +35,13 @@ The major source of data to be used for this project is from the Foursquare loca
 ## Foursquare Data
 The Foursquare location data will be filtered for coffee shops to find their locations. Depending on availability, the services offered by coffee shops or other nearby locations may also be used.
 
+https://www.ibm.com/developerworks/library/os-foursquare/index.html
+
+https://developer.foursquare.com/docs/api-reference/venues/search/
+
 ## Geographic location data
 Zipcode data may also be used to group coffee shops by locations. If these areas are too large in geographic area, other data (such as neighborhood data, if available) may be used.  Longitude and Latitude data may also be used to determine locations in relation to each other.
 There is data available here:
-
-Foursquare:
-https://developer.foursquare.com/docs/api-reference/venues/search/
 
 https://wsoic.cityofws.org/
 and
